@@ -43,3 +43,5 @@ out/
 # Maven wrapper
 .mvn/
 mvnw
+
+application-local.properties

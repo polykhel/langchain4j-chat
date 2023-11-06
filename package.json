@@ -27,7 +27,8 @@
     "lit": "2.8.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.4.2"
+    "react-router-dom": "^6.4.2",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@lit-labs/react": "^1.1.0",
@@ -35,6 +36,7 @@
     "@rollup/pluginutils": "5.0.2",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.8",
+    "@types/uuid": "^9.0.6",
     "@vitejs/plugin-react": "4.0.4",
     "async": "3.2.4",
     "glob": "10.3.3",
@@ -74,7 +76,8 @@
     "@hilla/react-form": "$@hilla/react-form",
     "@hilla/react-auth": "$@hilla/react-auth",
     "@hilla/generator-typescript-plugin-subtypes": "$@hilla/generator-typescript-plugin-subtypes",
-    "@hilla/react-crud": "$@hilla/react-crud"
+    "@hilla/react-crud": "$@hilla/react-crud",
+    "uuid": "$uuid"
   },
   "vaadin": {
     "dependencies": {
@@ -117,6 +120,6 @@
       "workbox-core": "7.0.0",
       "workbox-precaching": "7.0.0"
     },
-    "hash": "738e31a8a66b575319d9becc84875fbc6ae6de70e8a881748284ad6db05f2c63"
+    "hash": "cfe612600d5575136a597d4a659970161109eb716d3e8ced42b7c693d9dd2c31"
   }
 }
